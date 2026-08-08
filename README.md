@@ -76,7 +76,7 @@
 3. Content Browser에서 `Content/Blueprints/map/titleMap.umap`을 엽니다.
 4. Blueprint를 Compile한 뒤 Play In Editor로 실행합니다.
 
-현재 기본 시작 맵은 Third Person Template Map으로 설정되어 있어, 설정을 수정하기 전에는 `titleMap`을 직접 열어야 합니다.
+기본 에디터·게임 시작 맵은 `titleMap`으로 설정되어 있습니다.
 
 ## 개발 상태
 
